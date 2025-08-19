@@ -4,8 +4,6 @@
   <h3>Main skills<h3>
   <img src="https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=sharp&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-JS-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117" />
 </div>
 
 <div align="center">
