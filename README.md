@@ -39,7 +39,7 @@ entity and gameplay systems.
 
 ## Technical interests
 
-C++ · Multithreading· SIMD · CPU/GPU performance · CMake · Conan · Linux · Windows
+C++ · Multithreading · SIMD · CPU/GPU performance · CMake · Conan · Linux · Windows
 
 Interested in inference runtimes, operating systems, security software,
 embedded systems, robotics and engine/runtime development.
@@ -47,4 +47,5 @@ embedded systems, robotics and engine/runtime development.
 ## Contact
 
 [Telegram](https://t.me/iamfobey)
+
 Email: iamfobey@gmail.com
