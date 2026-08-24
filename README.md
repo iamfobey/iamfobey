@@ -1,31 +1,50 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Nikita%20Gordeev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+# Nikita Gordeev
 
-<div align="center">
-  <h3>Main skills<h3>
-  <img src="https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=sharp&labelColor=0D1117" />
-</div>
+C++ developer focused on systems programming, performance, runtimes and engine/tooling development.
 
-<div align="center">
-  <h3>Tools<h3>
-  <img src="https://img.shields.io/badge/-JetBrains-0D1117?style=for-the-badge&logo=jetbrains&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" />
-</div>
+## Featured projects
 
-<div align="center">
-  <h3 align="center">Links to me</h3>
-  <a href="https://x.com/iamfobeyx/"><img src="https://user-images.githubusercontent.com/74720936/133612270-297b5e07-3363-47ed-b3d5-ce698060df88.png" width="45" height="45" hspace="5"vspace="5"></a>
-  <a href="https://vk.com/iamfobey"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74720936/133612269-a9aa4826-140f-4b2d-b16e-99489a50f127.png" width="45" height="45" hspace="5"vspace="5"></a>
-  <a href="https://open.spotify.com/user/31v5gzgr5z2xdtemjkz57cg33kxm?si=a8650dad2c5d4b08/"><img src="https://user-images.githubusercontent.com/74720936/133612265-9f335cee-bd71-4616-9f67-873840ea3814.png" width="45" height="45" hspace="5"vspace="5"></a>
-  <a href="https://t.me/iamfobey"><img src="https://user-images.githubusercontent.com/74720936/133612272-6ec2fd70-2a64-4ac5-9df7-2eff877c921f.png" width="45" height="45" hspace="5"vspace="5"></a>
-</div>
+### [InferenceRuntime](https://github.com/iamfobey/InferenceRuntime)
+Experimental C++20 CPU inference runtime for SmolLM2.
 
-<div align="center">
-  <br>
-    <h3 align="center">Visitors count</h3>
-    <p align="center"><img align="center" src="https://count.getloli.com/get/@iamfobey?theme=asoul" /></p> 
-  <br>
-</div>
+Implements model loading, tokenization and transformer execution with a custom
+CPU backend, FP16/FP32 tensor storage, KV cache, RoPE, attention, SIMD kernels
+and a custom multithreaded work-stealing scheduler.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=145&section=footer&text=Made%20with%20&#10084&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=77"/>
+### [Oneiro](https://github.com/iamfobey/Oneiro)
+C++20 game engine and editor project.
+
+Includes a batched OpenGL renderer, world/entity management, asset and virtual
+filesystem layers, audio, event dispatching, a job system and ImGui-based
+editor tooling.
+
+### [Rebirth](https://github.com/iamfobey/Rebirth)
+C++/OpenGL visual novel engine built in 13 days for AniVisual Jam #3 and used
+to build The Last Evening by Candlelight.
+
+### [HollowSelf](https://github.com/iamfobey/HollowSelf)
+Narrative 3D game built with Godot and C#.
+
+Contains custom gameplay architecture, FSMs, logging/debug tooling, FMOD audio
+integration, localization, dialogue systems and gameplay analytics.
+
+## Earlier C++ work
+
+In 2023 I also worked for a short period on the Kraken Online C++ client,
+primarily debugging gameplay/client code and investigating networking.
+
+During the same period I independently worked with legacy CryEngine/Lumberyard
+codebases: recovering builds, source-level debugging and investigating engine,
+entity and gameplay systems.
+
+## Technical interests
+
+C++ · Multithreading· SIMD · CPU/GPU performance · CMake · Conan · Linux · Windows
+
+Interested in inference runtimes, operating systems, security software,
+embedded systems, robotics and engine/runtime development.
+
+## Contact
+
+[Telegram](https://t.me/iamfobey)
+Email: iamfobey@gmail.com
